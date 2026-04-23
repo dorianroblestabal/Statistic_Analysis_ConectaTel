@@ -5,6 +5,7 @@ Descripción del proyecto
 Este proyecto tiene como objetivo analizar el comportamiento de los clientes de ConnectaTel mediante técnicas de análisis de datos, con el fin de identificar patrones de uso, segmentar usuarios y generar recomendaciones de negocio.
 
 Objetivos
+
 Analizar la calidad de los datos y realizar limpieza
 Identificar patrones de uso en clientes
 Segmentar usuarios por nivel de uso y edad
