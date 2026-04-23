@@ -23,7 +23,7 @@ Problemas detectados en los datos
 Valores nulos en:
 city (~11%)
 churn_date (~88%) (esperado)
-duration (~55%) y length (~44%) (nulos estructurales)
+duration (~55%) y length (~44%) 
 Valores sentinela (-999) en age
 Posibles duplicados en variables de uso
 Presencia de outliers en métricas de consumo
@@ -33,10 +33,9 @@ Reconocimiento de outliers
 Conservación de nulos en casos específicos
 Validación de consistencia de datos
 
- Segmentaciones:
+Segmentaciones:
 
 Se generaron variables clave para el análisis:
-
 uso_total = mensajes + llamadas + minutos
 grupo_uso:
 Bajo uso
@@ -46,7 +45,8 @@ Segmentación por edad:
 Joven
 Adulto
 Adulto mayor
-📊 Análisis y visualización
+
+Análisis y visualización
 
 Se utilizaron librerías como:
 
